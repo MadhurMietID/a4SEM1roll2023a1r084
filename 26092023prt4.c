@@ -12,15 +12,15 @@ void main()
     int s;
     printf("enter the side of square");
     scanf("%d",&s);
-    area=s*s;
-    peri=4*s;
-    printf("Area of square=%f",area);
-    printf("perimeter of square=%f",peri);
+    float are=s*s;
+    float per=4*s;
+    printf("Area of square=%f",are);
+    printf("perimeter of square=%f\n",per);
     int l,b;
     printf("Enter the length and breadth");
-    scanf("%d%d ,&l,&b");
-    area=l*b;
-    peri=2*(l+b);
-    printf("Area of rectangle=%f",area);
-    printf("perimeter of rectangle=%f",peri);    
+    scanf("%d%d" ,&l,&b);
+    float ar=l*b;
+    float pr=2*(l+b);
+    printf("Area of rectangle=%f\n",ar);
+    printf("perimeter of rectangle=%f",pr);    
 }
