@@ -1,4 +1,4 @@
-//program to calculate factorial of a person using a loop
+//program to calculate factorial using a loop
 #include <stdio.h>
 int main() {
     int n, i;
