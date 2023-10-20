@@ -1,4 +1,4 @@
-//Prime Number or Not
+//Prime Number or Not using while
 #include<stdio.h>  
   
 int main()  
