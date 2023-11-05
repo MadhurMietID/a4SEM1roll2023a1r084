@@ -1,3 +1,4 @@
+//C program to find maximum element and index in the array
 #include <stdio.h>
 int main()
 {
