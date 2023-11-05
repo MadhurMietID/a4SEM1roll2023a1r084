@@ -11,3 +11,5 @@ Practical n}-(a,b,c) } File name on this github repository for SEM 1 practicals 
 4}-(a,b,c) ===>> [(12102023pt5.c),(17102023pt4.c),(20102023pt2.c)]
 
 5}-(a,b,c) ===>> [(18102023pt3.c),(20102023pt2.c),(20102023pt3.c)]
+
+6}-(a,b,c) ===>> [(03112023pt6),(),()]
