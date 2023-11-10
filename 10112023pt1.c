@@ -18,7 +18,7 @@ int main()
   {
     if (array[c] == search)    /* If required element is found */
     {
-      printf("%d is present at location %d.\n", search, c+1);
+      printf("%d is present at location %d.\n", search, c);
       break;
     }
   }
