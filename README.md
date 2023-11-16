@@ -13,4 +13,4 @@ Practical lab manual records n}-(a,b,c) } File name on this github repository fo
 
 5}-(a,b,c) ===>> [(18102023pt3.c),(20102023pt2.c),(20102023pt3.c)]
 
-6}-(a,b,c) ===>> [(03112023pt6),(07112023pt6.c),()]
+6}-(a,b,c) ===>> [(03112023pt6),(07112023pt6.c),(10112023pt1.c)]
