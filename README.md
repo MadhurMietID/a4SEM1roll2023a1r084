@@ -1,5 +1,5 @@
 # a4SEM1roll2023a1r084
-Here i have uploaded Sem 1 programs  we did in colloge's cs lab and programs for the practicals. The programs are named according to the date they were done in cse college lab.
+Here i have uploaded BE CSE Semester 1 programs that we did in colloge's com lab and programs we wrote in practical manual. The programs are named according to the date they were done in college com lab.
 
 Practical lab manual records n}-(a,b,c) } File name on this github repository for SEM 1 practicals [(file A name),(file B name),(File c name)]
 
