@@ -1,3 +1,4 @@
+//program to demonstrate use of various string operations in c
 #include<stdio.h>
 #include<string.h>
 void main()
