@@ -18,6 +18,6 @@ int main()
       location = c;
       }
   }   
-  printf("Maximum element is present at location %d and its value is %d.\n", location+1, array[location]);
+  printf("Maximum element is present at index of %d and its value is %d.\n", location, array[location]);
   return 0;
 }
